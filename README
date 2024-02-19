@@ -8,7 +8,7 @@ PEBBLEHOST_ALLOWEDROLEID=
 2. Run npm run commands
 3. Run npm run start
 4. Bot should be online with the needed commands. To check if the bot is fully functional check the console and if after running a command in discord it returns "Response: { success: true, errors: [], data: [] }" it works!
-<h1>Extra</h1>
+Extra
 1. Most likely the code is not the issue but the variables in .env are incorrect
 2. If you would like to use this with a host in "package.json" you will most likely have to edit the start command to be 
 "start": "node src/index",
